@@ -1,0 +1,17 @@
+{
+    "name": "eris/sites",
+    "autoload": {
+        "psr-4": {
+            "Eris\\Sites\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Derek",
+            "email": "598517+johnny13@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "symfony/dotenv": "^7.3"
+    }
+}
